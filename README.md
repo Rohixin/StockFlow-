@@ -70,7 +70,6 @@ Make sure you have [Node.js (LTS recommended)](https://nodejs.org/) and npm (Nod
 * **Premium Symbols:** Some specific international stocks or advanced data sets might be premium. If you hit a "Premium Endpoint" error, try well-known US stock symbols like `IBM`, `AAPL`, or `MSFT` – they're usually free-tier friendly!
 
 ---
-
 ## 🏗️ Under the Hood: StockFlow's Architecture
 
 my-stock-dashboard/
